@@ -1,0 +1,9 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+README.md
+logs/

@@ -1,0 +1,5 @@
+services:
+  ttlock-api:
+    build: ./api_ttlock
+    container_name: hkquant_api_ttlock
+    restart: always
