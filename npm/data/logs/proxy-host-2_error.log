@@ -1,0 +1,6 @@
+2026/08/09 15:12:43 [warn] 337#337: *3465 using uninitialized "server" variable while logging request, client: 138.68.86.32, server: hkquant.com, request: "LEAKIX"
+2026/08/09 15:44:26 [warn] 373#373: *5202 using uninitialized "server" variable while logging request, client: 35.234.187.3, server: hkquant.com
+2026/08/09 18:09:05 [error] 241#241: *2171 open() "/data/letsencrypt-acme-challenge/.well-known/acme-challenge/index.php" failed (2: No such file or directory), client: 74.248.97.169, server: hkquant.com, request: "GET /.well-known/acme-challenge/index.php HTTP/1.1", host: "hkquant.com"
+2026/08/10 01:07:16 [warn] 255#255: *10380 using uninitialized "server" variable while logging request, client: 45.154.98.134, server: hkquant.com
+2026/08/10 12:21:25 [warn] 242#242: *1242 using uninitialized "server" variable while logging request, client: 45.154.98.134, server: hkquant.com
+2026/08/10 14:09:17 [warn] 242#242: *1040 using uninitialized "server" variable while logging request, client: 34.148.112.68, server: hkquant.com

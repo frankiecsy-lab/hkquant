@@ -1,0 +1,5 @@
+services:
+  ttlock-api:
+    build: ./api_futu
+    container_name: hkquant_api_futu
+    restart: always
