@@ -21,8 +21,6 @@ services:
       build: ./api_futu           # Dockerfile 保持 --port 8000 不用變動
       container_name: hkquant_api_futu
       restart: always
-      ports:
-        - "8000:8000"             # 可以安心繼續使用 8000 Port
       extra_hosts:
         - "host.docker.internal:host-gateway"  # 指向宿主主機
       environment:
